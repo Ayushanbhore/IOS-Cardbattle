@@ -24,12 +24,13 @@ To run the project locally, follow these steps:
 1. Clone the repository:
 
 ``` bash
-git clone https://github.com/ayushanbhore/visionOS-PhysicsSandbox.git
+git clone https://github.com/Ayushanbhore/IOS-Cardbattle.git
 ```
 2. Open the project in Xcode:
 
 ``` bash
-git clone https://github.com/ayushanbhore/visionOS-PhysicsSandbox.git
+cd IOS-Cardbattle
+open CardBattle.xcodeproj
 ```
 3. Build and run the project in Xcode.
 
