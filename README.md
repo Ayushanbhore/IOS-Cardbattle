@@ -23,11 +23,14 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
 
-
+``` bash
+git clone https://github.com/ayushanbhore/visionOS-PhysicsSandbox.git
+```
 2. Open the project in Xcode:
 
-
-
+``` bash
+git clone https://github.com/ayushanbhore/visionOS-PhysicsSandbox.git
+```
 3. Build and run the project in Xcode.
 
 ## Contributing
@@ -40,4 +43,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-Special thanks to [CodeWithChris.com](https://opengameart.org) for providing the card art used in this project.
+Special thanks to [Justcloth.in](justcloth.in) for providing the card art used in this project.
