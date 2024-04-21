@@ -1,6 +1,6 @@
 # iOS Card Battle
 
-//![Demo](demo.gif)
+[Demo](demo.gif)
 
 iOS Card Battle is a simple card battle game developed for iOS using Swift and UIKit framework. It allows players to engage in battles using a deck of cards featuring various characters and abilities.
 
@@ -22,3 +22,22 @@ iOS Card Battle is a simple card battle game developed for iOS using Swift and U
 To run the project locally, follow these steps:
 
 1. Clone the repository:
+
+
+2. Open the project in Xcode:
+
+
+
+3. Build and run the project in Xcode.
+
+## Contributing
+
+Contributions are welcome! If you'd like to contribute to the project, please fork the repository and submit a pull request with your changes.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+Special thanks to [CodeWithChris.com](https://opengameart.org) for providing the card art used in this project.
